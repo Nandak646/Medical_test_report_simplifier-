@@ -32,6 +32,9 @@ Easily understand your lab reports with this AI-powered tool ✨.
 🚀 Future Enhancements
 
  Smart alerts for abnormal results
+
  Report history & tracking
+
  Export as PDF/CSV
+
  Cloud-based OCR for scalability
