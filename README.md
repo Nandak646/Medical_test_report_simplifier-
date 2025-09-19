@@ -6,7 +6,7 @@ Easily understand your lab reports with this AI-powered tool ✨.
 
 ⚡ How It Works
 
-1. 🖼 Upload Report – Add your medical report (PNG/JPG).
+1. 🖼 Upload Report – Add your medical report (PNG/JPG/PDF).
 
 
 2. 🔍 OCR Extraction – Text pulled using EasyOCR.
